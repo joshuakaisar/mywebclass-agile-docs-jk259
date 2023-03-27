@@ -1,19 +1,19 @@
-Task Title: Develop Learner Progress Dashboard
+Task Title: Redesign Website Landing Page
 
-User Story: As a learner, I want to be able to track my progress in real-time, so that I can monitor my performance and identify areas where I need to improve.
+User Story: As a website visitor, I want to have a visually appealing and user-friendly landing page that accurately represents the website's purpose and content.
 
-Description: Develop a dashboard that displays learners' progress in each course. The dashboard should show a summary of progress, including the number of courses completed, the percentage of courses completed, and the percentage of quizzes and assignments completed. The dashboard should also provide detailed information about each course, including the course name, instructor name, and course progress. The user should be able to click on a course to see detailed information about their performance in that course, including their quiz and assignment scores, the number of attempts made, and the time spent on each quiz or assignment. The dashboard should be responsive and accessible, and should integrate with the LMS platform.
+Description: The task involves redesigning the website's landing page to make it more visually appealing and user-friendly. The new design should accurately represent the website's purpose and content, while also improving the user experience.
 
-Acceptance Criteria:
+The task includes the following:
 
-The dashboard should display a summary of progress for each learner, including the number of courses completed, the percentage of courses completed, and the percentage of quizzes and assignments completed.
-The dashboard should provide detailed information about each course, including the course name, instructor name, and course progress.
-The user should be able to click on a course to see detailed information about their performance in that course, including their quiz and assignment scores, the number of attempts made, and the time spent on each quiz or assignment.
-The dashboard should be responsive and accessible.
-The dashboard should integrate with the LMS platform.
-Effort Estimate: 20 hours
+Analyzing the current landing page and identifying areas for improvement.
+Designing a new landing page that is visually appealing and user-friendly.
+Implementing the new landing page design, ensuring that it is consistent with the overall website design and style guide.
+Testing the new landing page to ensure that it is responsive and user-friendly across different devices and browsers.
+Updating documentation and training materials for website administrators.
+Effort Estimate: 16 hours
 
-Assigned To: John
+Assigned To: John Smith
 
 Priority: High
 

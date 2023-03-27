@@ -1,15 +1,26 @@
-Task Title: Create a feedback form and report
+Sure! Here's a new task:
 
-User Story: As a website user, I want to provide feedback to the website administrator, so that my concerns can be addressed and improvements can be made to the website.
+Task Title: Add multi-language support to the website
 
-Description: The task is to create a feedback form that will capture the user's name, email address, feedback type, and feedback message. The feedback form should be user-friendly and accessible to all users. Once the user submits the feedback form, the data should be stored in a database for future reference. The website should also send a confirmation message to the user acknowledging receipt of the feedback.
+User Story: As a user who speaks a language other than English, I want to be able to view the website content in my preferred language so that I can better understand and engage with the website.
 
-A report summarizing the feedback received from users and the actions taken to address the feedback should be created. The report should include the feedback type, the number of feedback received, and a summary of the feedback messages. The report should also include the action taken to address each feedback message.
+Description:
 
-Effort Estimate: 20 hours
+The task involves adding multi-language support to the website to allow users to view website content in different languages. The website should provide a language selection option for users to choose their preferred language. The website should be able to display content in different languages based on the user's selection.
 
-Assigned To: Web Developer
+The multi-language support should be implemented in a way that allows for easy addition of new languages in the future. The content should be translated accurately and contextually, taking into account differences in language and cultural nuances.
 
-Priority: High
+Acceptance Criteria:
+
+The website has a language selection option for users to choose their preferred language.
+The website content is displayed in the user's selected language.
+The language selection option and language-specific content is visible and accessible across all website pages.
+The content is translated accurately and contextually, taking into account language and cultural differences.
+The multi-language support is implemented in a way that allows for easy addition of new languages in the future.
+Effort Estimate: 16 hours
+
+Assigned To: Back-end Developer
+
+Priority: Medium
 
 Status: Not started

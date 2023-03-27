@@ -1,19 +1,24 @@
-Task Title: Develop a dashboard for instructors to track learner progress
+Task Title: Implement Course Review and Rating Feature
 
-User Story: As an instructor, I want to be able to track my learners' progress in a course so that I can provide appropriate guidance and support.
+User Story: As a learner, I want to be able to review and rate courses I have taken, so that I can provide feedback to the platform and help other learners make informed decisions.
 
-Description: Develop a dashboard for instructors that displays detailed information about learners' progress in a course. The dashboard should include the following:
+Description:
 
-Overview of the course, including the number of learners enrolled, completion rate, and average progress
-Individual learner progress, including the percentage of the course completed, the number of completed and remaining modules, and the ability to view detailed progress reports
-Detailed progress reports for each learner, including the date and time each module was completed, the score received on each quiz or assessment, and any feedback provided by the learner or instructor
-Option to send messages to learners directly from the dashboard to provide guidance and support
-The dashboard should be user-friendly, accessible, and provide real-time updates as learners complete modules and assessments.
+Implement a course review and rating feature that allows learners to rate and write reviews for courses they have taken. The feature should allow learners to rate courses on a scale of 1 to 5 stars and leave a written review of the course. The reviews and ratings should be displayed on the course pages and used to calculate an overall rating for each course.
 
-Effort Estimate: 40 hours
+Acceptance Criteria:
 
-Assigned To: John Smith
+The course review and rating feature allows learners to rate courses on a scale of 1 to 5 stars.
+The course review and rating feature allows learners to write reviews for courses.
+The course review and rating feature displays the reviews and ratings on the course pages.
+The course review and rating feature calculates an overall rating for each course based on the reviews and ratings.
+The course review and rating feature is accessible and user-friendly.
+The course review and rating feature adheres to data protection policies and regulations.
 
-Priority: High
+Effort Estimate: 12 hours
 
-Status: In Progress
+Assigned To: Back-end Developer
+
+Priority: Medium
+
+Status: Not started

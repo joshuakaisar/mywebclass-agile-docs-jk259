@@ -1,13 +1,24 @@
-Task Title: Implement Changes to Improve User Experience
+Task Title: Add Course Search Feature
 
-User Story: As a website administrator, I want to implement changes based on user feedback and behavior to improve the user experience so that users are satisfied and engaged with the website.
+User Story: As a learner, I want to be able to search for courses based on keywords or phrases, so that I can easily find the course I am interested in.
 
-Description: Based on the user feedback and behavior data analysis, identify areas of the website that need improvement to enhance the user experience. This could include changes to the website layout, navigation, search functionality, or content. Develop a plan for implementing the necessary changes and prioritize them based on their impact on user experience and complexity of implementation. Work with the development team to implement the changes and conduct additional user testing to verify that the changes have improved the user experience. Finally, track and analyze the impact of the changes on user engagement and satisfaction metrics.
+Description:
 
-Effort Estimate: 20-40 hours
+The task involves adding a course search feature to the website. This feature should allow learners to search for courses by entering keywords or phrases. The search results should display relevant courses based on the entered search criteria.
 
-Assigned To: UX Designer and Development Team
+Acceptance Criteria:
 
-Priority: High
+The course search feature should be implemented using a search engine or algorithm that provides accurate and relevant search results.
+The search feature should allow learners to search for courses based on keywords or phrases.
+The search results should display relevant courses based on the entered search criteria.
+The search results should be displayed in a user-friendly and organized manner.
+The search feature should work seamlessly with the LMS platform and course content.
+The search feature should be optimized for mobile devices as well as desktops.
+The search feature should have the ability to filter results by category, price, and other relevant parameters.
+Effort Estimate: 15 hours
 
-Status: In Progress
+Assigned To: Back-end Developer
+
+Priority: Medium
+
+Status: Not started
